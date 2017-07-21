@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 24,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -381,6 +383,18 @@
             "Extension"
           ],
           "_name": "extTable1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            },
+            "TH": {
+              "color": "#c0a375",
+              "font-size": "14px"
+            },
+            "TD": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "extTable1-h",
           "_params": {
             "rowСount": "4",
@@ -408,25 +422,18 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Month</th><th>Sent (000s)<br></th><th>Delivered (000s)</th><th>Delivery Rate &nbsp; &nbsp; &nbsp; &nbsp;</th><th>Bounces (000s)&nbsp;</th><th>Bounce Rate &nbsp; &nbsp; &nbsp;&nbsp;</th></tr></thead><tbody><tr><td>December 17</td><td>5317</td><td>5304</td><td>99.4%</td><td>13</td><td>0.3%</td></tr><tr><td>January 17</td><td>7278</td><td>7238</td><td>99.4%</td><td>40</td><td>0.8%</td></tr><tr><td>Febuary 17</td><td>7072</td><td>7058</td><td>99.4%</td><td>15</td><td>0.3%</td></tr><tr><td>March 17</td><td>8067</td><td>8000</td><td>99.4%</td><td>67</td><td>0.8%</td></tr></tbody>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "24px"
-            },
-            "TH": {
-              "color": "#c0a375",
-              "font-size": "14px"
-            },
-            "TD": {
-              "font-size": "14px"
-            }
-          }
+          "table": "<thead><tr><th>Month</th><th>Sent (000s)<br></th><th>Delivered (000s)</th><th>Delivery Rate &nbsp; &nbsp; &nbsp; &nbsp;</th><th>Bounces (000s)&nbsp;</th><th>Bounce Rate &nbsp; &nbsp; &nbsp;&nbsp;</th></tr></thead><tbody><tr><td>December 17</td><td>5317</td><td>5304</td><td>99.4%</td><td>13</td><td>0.3%</td></tr><tr><td>January 17</td><td>7278</td><td>7238</td><td>99.4%</td><td>40</td><td>0.8%</td></tr><tr><td>Febuary 17</td><td>7072</td><td>7058</td><td>99.4%</td><td>15</td><td>0.3%</td></tr><tr><td>March 17</td><td>8067</td><td>8000</td><td>99.4%</td><td>67</td><td>0.8%</td></tr></tbody>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "msg-box5-j",
           "_params": {
             "imageSize": "70",
@@ -473,12 +480,7 @@
           },
           "title": "Topline Metrix",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -532,6 +534,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "msg-box5-l",
           "_params": {
             "imageSize": "70",
@@ -578,12 +585,7 @@
           },
           "title": "Email Engagement",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -696,6 +698,11 @@
             "Extension"
           ],
           "_name": "extProgressBar3",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          },
           "_anchor": "extProgressBar3-d",
           "_params": {
             "progressColor": "@primaryColor",
@@ -741,12 +748,7 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "FEAR",
           "subtitle6": "",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "_styles": {
-            "path[stroke]": {
-              "stroke": "@primaryColor !important"
-            }
-          }
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -754,6 +756,11 @@
             "Extension"
           ],
           "_name": "extProgressBar1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -781,12 +788,7 @@
           "title1": "AMC",
           "title2": "IFC",
           "title3": "Sundance",
-          "title4": "We TV",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px"
-            }
-          }
+          "title4": "We TV"
         }
       ]
     }
