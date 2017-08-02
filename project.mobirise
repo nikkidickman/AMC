@@ -144,7 +144,7 @@
             "iconsColor": "#fff",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mm-bb-twd-triptych-2000x1178.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mm-bb-twd-triptych-1-2000x1180.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -235,10 +235,10 @@
             "animText3": "COUNT",
             "typeSpeed": "40",
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extheader15-bg.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
