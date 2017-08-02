@@ -690,11 +690,11 @@ h6,
   font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-8 .link {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
 }
 #ext_menu-8 .dropdown-item,
 #ext_menu-8 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.300rem;
 }
 #ext_menu-8 .link:hover,
 #ext_menu-8 .dropdown-item:hover,

@@ -64,10 +64,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -99,7 +99,7 @@
           "_anchor": "ext_menu-8",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -358,7 +358,7 @@
           "_anchor": "ext_menu-a",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1105,7 +1105,7 @@
           "_anchor": "ext_menu-y",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
