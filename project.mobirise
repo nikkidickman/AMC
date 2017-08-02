@@ -213,9 +213,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://nikkidickman.github.io/AMCPerfomance/",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "title4": "PREFORMANCE INDICATORS"
